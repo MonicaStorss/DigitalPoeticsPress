@@ -1,8 +1,7 @@
 # WebAR Text Trigger — Prototype
 **Digital Poetics Press · by Monica Storss**
 
-A single-file WebAR app. Point a phone camera at printed text (or any image-based marker); overlay a JPG/PNG or .glb 3D model on top of it in augmented reality. No app store. No server. Runs in the browser.
-
+A single-file WebAR app. Point a phone camera at printed text (or any image-based marker); overlay a JPG/PNG or .glb 3D model on top of it in augmented reality. No app store. No server. Runs in the browser. I built this tool for my project as a Women@MIT Fellow. AR tools kept going away --they were either deprecated, or the company went out of business, or the cost because prohibitive. I wanted to create a free, easy to use AR publishing tool that would allow control over persistence without having to rely upon a thrid party. 
 ---
 
 ## How it works
